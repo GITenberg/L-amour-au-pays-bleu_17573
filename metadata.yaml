@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '3772'
     url: http://www.gutenberg.org/2009/agents/3772
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17573#L-amour-au-pays-bleu
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-01-22'
 gutenberg_type: Text
